@@ -25,7 +25,7 @@ After thorough exploratory data analysis, we leverage several machine learning a
 - Deep Learning Algorithms
   1. Baseline CNN with 11 layers
   2. CNN with 14 layers
-  3, CNN with 17 layers
+  3. CNN with 17 layers
   4. CNN with 20 layers
   
 We also introduced data balancing using SMOTE oversampling, which showed comprehensive increase in the evaluation metrics (accuracy, recall, precision, f1-score)
